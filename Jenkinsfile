@@ -18,3 +18,4 @@ node {
 }
 stage('Testing Approval'){
     input "Happy Yes? No?"
+}
